@@ -8,4 +8,4 @@
 
 ## 01_CloudTrail_CloudTrail（操作ログ）
 
-## 01_EC2_S3_CloudTrail_3つの連動確認。
+## 01_EC2,S3,CloudTrail_3つの連動確認。
