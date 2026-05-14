@@ -1,4 +1,4 @@
-# CloudTrail（操作ログ）を理解
+# CloudTrail（操作ログ）を
 
 # CloudTrail とは？
 
